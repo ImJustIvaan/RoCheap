@@ -1,28 +1,15 @@
 # RoCheap
 An open-source 40% method made easy extension!
-<p align="center">
-   <img src="/assets/banner.jpg" title="RoCheap">
-   <br>
-   <a href="https://addons.mozilla.org/firefox/addon/redirecttube/"><img src="https://img.shields.io/amo/rating/redirecttube%40stankiewiczm.eu?style=for-the-badge&logo=firefox&logoColor=white&label=Mozilla%20Add-ons%20Rating"></a> <a href="https://chromewebstore.google.com/detail/jpbaggklodpddjcadlebabhiopjkjfjh/"><img src="https://img.shields.io/chrome-web-store/rating/jpbaggklodpddjcadlebabhiopjkjfjh?style=for-the-badge&logo=chromewebstore&logoColor=white&label=Chrome%20Web%20Store%20Rating"></a>
-   <br>
-   <img src="https://app.codacy.com/project/badge/Grade/5fbd04d2b238474ca9c21fc62de6ecda"><a href="https://translate.codeberg.org/engage/redirecttube/"><img src="https://translate.codeberg.org/widget/redirecttube/ui/svg-badge.svg"></a>
-</a>
-</p>
 
-## Open YouTube links in FreeTube
-
-RedirectTube is a browser extension that redirects YouTube links to FreeTube. It is available for Firefox and Chromium-based browsers.
 
 ## Installation
-
-
 
 ### Chromium-based browsers
 
 The Chromium package supports Chrome, Chromium, Edge, Brave, Vivaldi, and other Chromium-based browsers.
 
 ### Method 1: Chrome Web Store (recommended)
-You can install RedirectTube from the Chrome Web Store.
+You can install RoCheap from the Chrome Web Store.
 
 [![Get it on Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png)](https://chromewebstore.google.com/detail/j/)
 
