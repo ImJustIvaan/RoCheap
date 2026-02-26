@@ -1,7 +1,7 @@
 # RoCheap
 An open-source 40% method made easy extension!
 <p align="center">
-   <img src="/assets/banner.jpg" title="RedirectTube">
+   <img src="/assets/banner.jpg" title="RoCheap">
    <br>
    <a href="https://addons.mozilla.org/firefox/addon/redirecttube/"><img src="https://img.shields.io/amo/rating/redirecttube%40stankiewiczm.eu?style=for-the-badge&logo=firefox&logoColor=white&label=Mozilla%20Add-ons%20Rating"></a> <a href="https://chromewebstore.google.com/detail/jpbaggklodpddjcadlebabhiopjkjfjh/"><img src="https://img.shields.io/chrome-web-store/rating/jpbaggklodpddjcadlebabhiopjkjfjh?style=for-the-badge&logo=chromewebstore&logoColor=white&label=Chrome%20Web%20Store%20Rating"></a>
    <br>
