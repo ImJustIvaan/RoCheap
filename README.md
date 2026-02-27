@@ -18,7 +18,7 @@ You can install RoCheap from the Chrome Web Store.
 > [!NOTE]
 > The Chromium build is unsigned and must be reloaded manually whenever you download a new release.
 
-1. Download the latest release archive that ends with `-chromium-unsigned.zip` from the [releases page](https://github.com/MStankiewiczOfficial/RedirectTube/releases/).
+1. Download the latest release archive that ends with `-chromium-unsigned.zip` from the [releases page](https://github.com/MStankiewiczOfficial/RoCheap/releases/).
 2. Extract the ZIP file to a directory you want to keep (the browser needs to access the extracted files).
 3. Open `chrome://extensions` (or the equivalent extensions page in your Chromium browser).
 4. Enable **Developer mode**.
@@ -29,16 +29,16 @@ You can install RoCheap from the Chrome Web Store.
 
 #### Method 1: Firefox Add-ons (recommended)
 
-You can install RedirectTube from the Firefox Add-ons.
+You can install RoCheap from the Firefox Add-ons.
 
-[![Get the Add-on](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/pl/firefox/addon/redirecttube/)
+[![Get the Add-on](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/pl/firefox/addon/RoCheap/)
 
 #### Method 2: Manual Firefox installation
 
-1. Download the latest release of RedirectTube (file that ends with `-signed.xpi`) from the [releases page](https://github.com/MStankiewiczOfficial/RedirectTubej/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
+1. Download the latest release of RoCheap (file that ends with `-signed.xpi`) from the [releases page](https://github.com/MStankiewiczOfficial/RoCheapj/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
 2. Open the downloaded file in Firefox.
 3. Click "Add" to install the extension.
-   And that's it! RedirectTube is now installed in your browser.
+   And that's it! RoCheap is now installed in your browser.
 
 #### Method 3: Firefox developer mode
 
@@ -55,7 +55,7 @@ This method is for developers and advanced users.
    The extension is now installed in your browser.
 ## Local builds
 
-RedirectTube keeps a single shared codebase in `src/browser`. Use the provided helper to prepare browser-specific bundles:
+RoCheap keeps a single shared codebase in `src/browser`. Use the provided helper to prepare browser-specific bundles:
 
 ```
 node scripts/build.js
@@ -72,7 +72,7 @@ Once built, load the browser-specific folder from `dist/` via your browser's dev
 
 ### Via button
 
-Click the RedirectTube button in the toolbar to open the current YouTube video in FreeTube.
+Click the RoCheap button in the toolbar to open the current YouTube video in FreeTube.
 ![](/assets/toolbar.jpg)
 
 ### Via context menu
