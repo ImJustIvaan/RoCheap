@@ -35,38 +35,12 @@ You can install RoCheap from the Firefox Add-ons.
 
 #### Method 2: Manual Firefox installation
 
-1. Download the latest release of RoCheap (file that ends with `-signed.xpi`) from the [releases page](https://github.com/MStankiewiczOfficial/RoCheapj/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
+1. Download the latest release of RoCheap (file that ends with `-signed.xpi`) from the [releases page](https://github.com/ImJustIvaan/RoCheap/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
 2. Open the downloaded file in Firefox.
 3. Click "Add" to install the extension.
    And that's it! RoCheap is now installed in your browser.
 
-#### Method 3: Firefox developer mode
 
-This method is for developers and advanced users.
-
-> [!IMPORTANT]
-> If you restart your browser, the extension will be disabled.
-
-1. Clone the repository.
-2. Run `node scripts/build.js --browser gecko --no-zip` to generate the Firefox bundle inside `dist/gecko`.
-3. Go to `about:debugging#/runtime/this-firefox`.
-4. Click "Load Temporary Add-on".
-5. Select the `manifest.json` file located in `dist/gecko`.
-   The extension is now installed in your browser.
-## Local builds
-
-RoCheap keeps a single shared codebase in `src/browser`. Use the provided helper to prepare browser-specific bundles:
-
-```
-node scripts/build.js
-```
-
-The script requires Node.js 16.7+ (for `fs.cp`) and the `zip` CLI. It produces unpacked bundles at `dist/chromium` and `dist/gecko`, along with ready-to-distribute archives under `dist/packages`. Useful flags:
-
-- `--browser chromium,gecko` – build only the listed browsers.
-- `--no-zip` – skip archive creation if you just need the unpacked directory (handy for temporary installs in Firefox/Chromium).
-
-Once built, load the browser-specific folder from `dist/` via your browser's developer mode, or upload the generated archives wherever you distribute the extension.
 
 ## Usage
 
