@@ -1,6 +1,6 @@
 # RoCheap
 An open-source 40% method made easy extension!
-
+<img width="397" height="450" alt="RoCheap" src="https://github.com/user-attachments/assets/a264103f-392b-4af2-bee8-767fdc0ca297" />
 
 ## Installation
 
