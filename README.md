@@ -1,6 +1,8 @@
 # RoCheap
-An open-source 40% method made easy extension!
-<img width="397" height="450" alt="RoCheap" src="https://github.com/user-attachments/assets/a264103f-392b-4af2-bee8-767fdc0ca297" />
+### An open-source 40% method made easy extension!
+![RoCheapBanner](https://github.com/user-attachments/assets/c70d397c-7ead-4676-a5ca-f869cf5e8054)
+
+<img width="100" height="120" alt="RoCheap" src="https://github.com/user-attachments/assets/a264103f-392b-4af2-bee8-767fdc0ca297" />
 
 ### **RoCheap: The 40% Off Roblox Assistant**
 
@@ -33,7 +35,7 @@ You can install RoCheap from the Chrome Web Store.
 > [!NOTE]
 > The Chromium build is unsigned and must be reloaded manually whenever you download a new release.
 
-1. Download the latest release archive that ends with `-chromium-unsigned.zip` from the [releases page](https://github.com/MStankiewiczOfficial/RoCheap/releases/).
+1. Download the latest release archive that ends with `-chromium-unsigned.zip` from the [releases page](https://github.com/ImJustIvaan/RoCheap/releases/).
 2. Extract the ZIP file to a directory you want to keep (the browser needs to access the extracted files).
 3. Open `chrome://extensions` (or the equivalent extensions page in your Chromium browser).
 4. Enable **Developer mode**.
@@ -46,11 +48,11 @@ You can install RoCheap from the Chrome Web Store.
 
 You can install RoCheap from the Firefox Add-ons.
 
-[![Get the Add-on](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/pl/firefox/addon/RoCheap/)
+[![Get the Add-on](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/rocheap/)
 
 #### Method 2: Manual Firefox installation
 
-1. Download the latest release of RoCheap (file that ends with `-signed.xpi`) from the [releases page](https://github.com/ImJustIvaan/RoCheap/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
+1. Download the latest release of RoCheap from the [releases page](https://github.com/ImJustIvaan/RoCheap/releases/). If you see an alert about installing add-ons from untrusted sources, click "Continue installation" and don’t proceed with the next steps.
 2. Open the downloaded file in Firefox.
 3. Click "Add" to install the extension.
    And that's it! RoCheap is now installed in your browser.
