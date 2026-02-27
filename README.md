@@ -2,6 +2,21 @@
 An open-source 40% method made easy extension!
 <img width="397" height="450" alt="RoCheap" src="https://github.com/user-attachments/assets/a264103f-392b-4af2-bee8-767fdc0ca297" />
 
+### **RoCheap: The 40% Off Roblox Assistant**
+
+**RoCheap** is a powerful, lightweight Chrome extension designed to help you save Robux on your favorite Catalog items, Bundles, and Game Passes.
+
+By utilizing Roblox's in-game purchase affiliate system, RoCheap automates the process of buying items inside a specific game to earn a 40% commission rebate. Instead of doing the math and manually copying IDs, RoCheap handles everything for you in a single click.
+
+**✨ Key Features:**
+
+* **Instant Discount Calculator:** Automatically scans the Roblox page you are on, ignores local currencies, and accurately displays exactly how much the item will cost after the 40% rebate.
+* **One-Click Purchasing:** Click the "Buy" button to automatically copy the Item ID to your clipboard and instantly launch the Roblox app.
+* **Smart Deep-Linking:** RoCheap securely redirects you straight into the specific Roblox Place ID of your choice so you can paste the ID and complete your discounted purchase.
+* **Universal Support:** Works flawlessly across standard Catalog items, Avatar Bundles, and Game Pass pages.
+* **Clean & Fast UI:** A sleek, minimal popup that doesn't inject clunky buttons onto your Roblox webpages or slow down your browsing.
+
+
 ## Installation
 
 ### Chromium-based browsers
@@ -44,13 +59,10 @@ You can install RoCheap from the Firefox Add-ons.
 
 ## Usage
 
-### Via button
+**🛠️ How to Use:**
 
-Click the RoCheap button in the toolbar to open the current YouTube video in FreeTube.
-![](/assets/toolbar.jpg)
-
-### Via context menu
-
-Right-click a YouTube link and select "Open in FreeTube" to open the video in FreeTube.
-![](/assets/context-menu.jpg)
+1. Click the **RoCheap** icon in your browser toolbar.
+2. Open the **⚙️ Configuration** dropdown and enter your designated Roblox Place ID.
+3. Browse the Roblox website for any item, bundle, or game pass.
+4. Open the extension to see your discounted price, click **Buy With 40% Off**, and let RoCheap seamlessly open the game for you!
 
