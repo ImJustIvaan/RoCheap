@@ -57,13 +57,38 @@ You can install RoCheap from the Firefox Add-ons.
 3. Click "Add" to install the extension.
    And that's it! RoCheap is now installed in your browser.
    
+### Microsoft Edge
+
+   ### Method 1: Microsoft Edge Add-Ons (recommended)
+You can install RoCheap from the Edge Add-ons.
+
+[![Get it on Edge AddOns](https://developer.microsoft.com/en-us/microsoft-store/badges/images/English_get-it-from-MS.png)](https://microsoftedge.microsoft.com/addons/detail/rocheap-40%-off/kffihngbbihgjgbhjmnlglkimbndgpbm)
+
+#### Method 2: Manual Chromium installation via developer mode (Microsoft Edge is based off Chromium so this works with it)
+
+> [!NOTE]
+> The Chromium build is unsigned and must be reloaded manually whenever you download a new release.
+
+1. Download the latest release archive that ends with `-chromium.zip` from the [releases page](https://github.com/ImJustIvaan/RoCheap/releases/).
+2. Extract the ZIP file to a directory you want to keep (the browser needs to access the extracted files).
+3. Open `Edge://extensions` (or the equivalent extensions page in your Chromium browser).
+4. Enable **Developer mode**.
+5. Click **Load unpacked** and select the directory you extracted in step 2.
+   The extension will appear in the toolbar once the folder is loaded.
+
+### Method 3: Chrome Web Store (recommended)
+You can install RoCheap from the Chrome Web Store. Yes even though it is Edge, since its a chromium based browser, Chrome Web Store works as well!
+
+[![Get it on Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png)](https://chromewebstore.google.com/detail/RoCheap/dmfmeefbhodbfcjchnofilohpccjnhco)
+
+   
 ### Opera/Opera GX
 ### Method 1: Opera Add-Ons (recommended)
 You can install RoCheap from the Opera Add-ons.
 
 [![Get it on Opera AddOns](https://docs.asciidoctor.org/browser-extension/_images/opera-webstore-badge.png)](https://addons.opera.com/en/extensions/details/rocheap-40-off/)
 
-#### Method 2: Manual Chromium installation via developer mode
+#### Method 2: Manual Chromium installation via developer mode (Opera (and OperaGX) are based off Chromium so this works with it)
 
 > [!NOTE]
 > The Chromium build is unsigned and must be reloaded manually whenever you download a new release.
