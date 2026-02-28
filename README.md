@@ -62,7 +62,9 @@ You can install RoCheap from the Firefox Add-ons.
    ### Method 1: Microsoft Edge Add-Ons (recommended)
 You can install RoCheap from the Edge Add-ons.
 
-[![Get it on Edge AddOns](https://developer.microsoft.com/en-us/microsoft-store/badges/images/English_get-it-from-MS.png)](https://microsoftedge.microsoft.com/addons/detail/rocheap-40%-off/kffihngbbihgjgbhjmnlglkimbndgpbm)
+<a href="https://microsoftedge.microsoft.com/addons/detail/rocheap-40%25-off/kffihngbbihgjgbhjmnlglkimbndgpbm">
+  <img decoding="async" src="https://developer.microsoft.com/en-us/microsoft-store/badges/images/English_get-it-from-MS.png" alt="Get it from Microsoft" width="200px">
+</a>
 
 #### Method 2: Manual Chromium installation via developer mode (Microsoft Edge is based off Chromium so this works with it)
 
@@ -86,7 +88,9 @@ You can install RoCheap from the Chrome Web Store. Yes even though it is Edge, s
 ### Method 1: Opera Add-Ons (recommended)
 You can install RoCheap from the Opera Add-ons.
 
-[![Get it on Opera AddOns](https://docs.asciidoctor.org/browser-extension/_images/opera-webstore-badge.png)](https://addons.opera.com/en/extensions/details/rocheap-40-off/)
+<a href="https://addons.opera.com/en/extensions/details/rocheap-40-off/">
+  <img decoding="async" src="https://docs.asciidoctor.org/browser-extension/_images/opera-webstore-badge.png" alt="Opera Add-Ons" width="200px">
+</a>
 
 #### Method 2: Manual Chromium installation via developer mode (Opera (and OperaGX) are based off Chromium so this works with it)
 
