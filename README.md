@@ -86,7 +86,7 @@ You can install RoCheap from the Chrome Web Store. Yes even though it is Edge, s
    
 ### Opera/Opera GX
 ### Method 1: Opera Add-Ons (recommended)
-You can install RoCheap from the Opera Add-ons.
+You can install RoCheap from the Opera Add-ons. (**RoCheap on OPERA Add-Ons is currently not avaliable and is awating approval, till then you can use Method 2 or Method 3**)
 
 <a href="https://addons.opera.com/en/extensions/details/rocheap-40-off/">
   <img decoding="async" src="https://docs.asciidoctor.org/browser-extension/_images/opera-webstore-badge.png" alt="Opera Add-Ons" width="175px">
